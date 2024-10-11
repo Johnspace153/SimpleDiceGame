@@ -1,0 +1,11 @@
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\bin\Debug\net8.0\DiceGameLibrary.deps.json
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\bin\Debug\net8.0\DiceGameLibrary.dll
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\bin\Debug\net8.0\DiceGameLibrary.pdb
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\obj\Debug\net8.0\DiceGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\obj\Debug\net8.0\DiceGameLibrary.AssemblyInfoInputs.cache
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\obj\Debug\net8.0\DiceGameLibrary.AssemblyInfo.cs
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\obj\Debug\net8.0\DiceGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\obj\Debug\net8.0\DiceGameLibrary.dll
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\obj\Debug\net8.0\refint\DiceGameLibrary.dll
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\obj\Debug\net8.0\DiceGameLibrary.pdb
+C:\Users\space\source\repos\_Projects\SimpleDiceGame_App\DiceGameLibrary\obj\Debug\net8.0\ref\DiceGameLibrary.dll
